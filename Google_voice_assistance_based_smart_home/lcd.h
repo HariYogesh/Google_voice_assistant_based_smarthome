@@ -1,6 +1,5 @@
 /****************************************************************************
  Title	:   LCD library
- Author:    EFS88.com
  File:	    lcd
  Software:  AVR-GCC 3.3
  Target:    ATX8
