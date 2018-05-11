@@ -4,8 +4,6 @@
 //  Target Board : atmega32
 //
 //  Date Created : 04-Apr-18 5:18:38 AM
-// 
-//  Online Resource  : www.electronicsforstudents.com
 //
 //  Libraries Included : -->wifiadvanced 
 /////////////////////////////////////////////////////////////////////////////////////////////////////
